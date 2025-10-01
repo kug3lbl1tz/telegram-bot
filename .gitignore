@@ -1,1 +1,6 @@
 .env
+data/requests.json
+legacy_main.py
+__pycache__/config.cpython-312.pyc
+__pycache__/print_request.cpython-312.pyc
+__pycache__/storage.cpython-312.pyc
